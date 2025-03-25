@@ -3,3 +3,10 @@
 * {
 	font-family: Arial;
 }
+
+p, h1, h2, h3 {
+	font-family: "Outfit", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
